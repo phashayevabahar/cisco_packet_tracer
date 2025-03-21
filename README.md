@@ -13,5 +13,3 @@ This repository contains a Cisco Packet Tracer network topology.
 
 ## 📌 Notes
 Feel free to modify and improve the topology!
-# cyber-sec1
-# cisco_packet_tracer
